@@ -1,0 +1,6 @@
+index:
+    path: /
+    controller: App\Controller\MainController::index
+kms_froala_editor:
+    resource: '@KMSFroalaEditorBundle/Resources/config/routing.yml'
+    prefix:   /froalaeditor
